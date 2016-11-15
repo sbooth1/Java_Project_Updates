@@ -4,7 +4,7 @@ This repository contains up-to-date files from my COEN160 - OO Programming, Desi
 
 Documentation for the Project includes: 
 
-Booth_Goodpaster_COEN160Project_Deliverable1.docx: CRC Cards for major classes, Use-Case Diagrams, Use-Case Analysis
+Booth_Goodpaster_COEN160Project_Deliverable1.pdf: CRC Cards for major classes, Use-Case Diagrams, Use-Case Analysis
 
 Source Code for the Project is included in the sprinklersystem package.
 
